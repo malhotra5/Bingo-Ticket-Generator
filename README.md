@@ -25,7 +25,7 @@ An alternate would be to run the following -
     
     
 ## How it's made
-We are using reportlab to create a pdf of tickets. If we can create just one PDF with all the tickets, then we can print it all at once. To make the PDF's, we can use reportlab. Here are the steps to make the ticket generator - 
+We are going to create a pdf of tickets. If we can create just one PDF with all the tickets, then we can print it all at once. To make the PDF's, we can use reportlab. I got all the songs for the tickets from my mother in an excel sheet. We will use pandas to read data from there. Here are the steps to make the ticket generator - 
 * Getting the data
   * Take the data (songs) from an excel file, and make a database
   * Format and clean all the data in the database
@@ -33,3 +33,7 @@ We are using reportlab to create a pdf of tickets. If we can create just one PDF
   * Get random data for a ticket
   * Make a table out of it (this is the final ticket)
 * Keep repeating the second step until you get the number of tickets you want
+
+### Getting the data: Making the database
+We need to get the data from an excel file, and make a database out of it. 
+
