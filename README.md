@@ -158,7 +158,7 @@ Now that we have our list of song names we want to use for a ticket, we need to 
     
 The function above returns the data in the format we want. Now we can get to the good part. We can finally make the table out it. But, reportlab has a problem. If the song name it too large, the text will run out of the it's cell in the table, and go into another cell. This will cause the text to overlap. This following picture a table with the text overlapping. 
 
-![GitHub Logo](/images/overlap.jpg)
+![GitHub Logo](/images/over.jpg)
 
 We have to make our own text wrap function. Honestly, my code is very long and hard to explain. I show the function and briefly tell what it is doing. 
 
