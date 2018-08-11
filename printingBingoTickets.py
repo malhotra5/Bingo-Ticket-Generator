@@ -7,7 +7,7 @@ import random
 import sqlite3
 
 #Make document
-doc = SimpleDocTemplate("simple_table_grid.pdf", pagesize=letter)
+doc = SimpleDocTemplate("PDF results.pdf", pagesize=letter)
 #Make element holder
 elements = []
 
