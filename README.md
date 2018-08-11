@@ -35,5 +35,12 @@ We are going to create a pdf of tickets. If we can create just one PDF with all 
 * Keep repeating the second step until you get the number of tickets you want
 
 ### Getting the data: Making the database
-We need to get the data from an excel file, and make a database out of it. 
+We need to get the data from an excel file, and make a database out of it. We will use pandas for it. In my repository, I made a whole other file in order to do this. The excel file is the following format
+
+Songs|Kind
+-----|-----
+High Hopes| Rock
+Back in Black| Rock
+
+
 
