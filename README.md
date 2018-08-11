@@ -14,6 +14,7 @@ https://github.com/malhotra5/Database-functionalities
 
 ### Installing
 Sqlite comes pre-installed. To get the rest, you can find python wheels at this website - https://www.lfd.uci.edu/~gohlke/pythonlibs/
+
 Download the wheel files for the required modules. To install wheels, run the following commands on the terminal. Make sure that your terminal is in the directory your wheel files have been downloaded. Run - 
 
     pip install wheelFileName.whl #Run for all wheel files
