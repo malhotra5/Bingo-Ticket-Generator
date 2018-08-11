@@ -255,3 +255,5 @@ The data above, makes a a PDF for a hundred tickets. Notice doc.build, takes a l
 * You saw how to use multiple modules in Python, and implement it for a full fledged application
 ## Built with
 Python3
+## Acknowledgments
+* My mother for the inspiration to make this repository
