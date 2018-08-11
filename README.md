@@ -254,6 +254,8 @@ The data above, makes a a PDF for a hundred tickets. Notice doc.build, takes a l
 * Real world problems can be solved by programming
 * A lot of times, modules or code that has been provided for you won't have everything. You have to create your own functionalities sometimes. You saw this during the **textWrap()** function
 * You saw how to use multiple modules in Python, and implement it for a full fledged application
+## Things to improve
+Even though we are randomly picking songs for the tickets, there might be a slight chance in which there might be two identical tickets. The order of the songs might be different or even the same, but there is definetely a high chance of having the same songs if there are too few of songs to choose from. 
 ## Built with
 Python3
 ## Acknowledgments
